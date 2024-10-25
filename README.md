@@ -1,7 +1,5 @@
 # Coroa de Frade
 
-https://www.gbif.org/tools/zoom/simple.html?src=//api.gbif.org/v1/image/cache/occurrence/1930838981/media/21b8bf64ca08c1753077d11ad4520c26
-
 This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
 
 
